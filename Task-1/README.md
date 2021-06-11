@@ -7,5 +7,3 @@ In this section we will see Gradient discent algo for machine learning can be us
 
 Python Scikit Learn
 Scikit-learn is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN.
-
-Importing Usefull Libraries for the task
